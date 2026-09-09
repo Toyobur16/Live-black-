@@ -1,0 +1,16 @@
+[
+  {
+    "id": "demo-telegram-bot-7olc7",
+    "name": "Demo Telegram Bot",
+    "dirName": "demo-telegram-bot-7olc7",
+    "entryFile": "bot.py",
+    "token": "",
+    "created": "2026-09-09T19:53:00.668Z",
+    "status": "running",
+    "pid": 553,
+    "uptime": "0s",
+    "owner": "user",
+    "autoRestart": true,
+    "lastPing": "2026-09-09T19:53:00.677Z"
+  }
+]
